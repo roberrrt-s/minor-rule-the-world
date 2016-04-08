@@ -20,6 +20,7 @@ The above system should be enough for a minimal viable product, but I think the 
 
  - Check for geolocation. And if available, load geolocation into a map.
  - Update the map with a polygon that connects a possible or confirmed group of outtages.
+ - Have a stream of these tweets appear as well.
 
 ## Twitter API
 
